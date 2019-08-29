@@ -1,0 +1,208 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+ }
+ body
+ {
+     background: #1b1b1b;
+    
+ }
+.profile-img
+{
+    width: 20%;
+    float: left;
+ }
+ 
+ .matty
+ {  width: 30%;
+    height: 100vh;
+    float: right;
+    padding: 0 30px;
+    margin-bottom: 400px;
+    margin-top: 30px;
+    overflow: scroll;
+    overflow-x: hidden;
+    }
+    .matty::-webkit-scrollbar
+    {
+        width: 0px;
+    }
+    
+    .line1
+    {
+       margin-top: 50px ;
+       margin-bottom: 250px;
+       width: 0%;
+    }
+ .ene
+ {
+     margin-left: 30px;
+     color: beige;
+ }
+ .issey
+ { width: 10%;
+    height: 50vh;
+
+ }
+    .idc
+    {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        color: rgb(240, 8, 8);
+         margin-left: 15px;
+    }
+    .ida
+    {
+        margin-left: 20px;
+        color: beige;
+    }
+    .dd
+    {
+        margin-bottom: 15px;
+        margin-top: 5px;
+        margin-left: 15px;
+        color: rgb(240, 8, 8);
+    }
+    .skills img
+    {
+        height: 10%;
+        margin: 10px;
+    }
+    .skills
+     {
+         display: inline-block;
+         width: 28%;
+         padding: 30px 10px;
+         margin: 02%;
+         text-align: center;
+         box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+         background-color: white;
+     }
+     .copyright
+     {
+         text-align: center;
+         margin-bottom: 20px;
+     }
+     .bi
+     {
+         color: rgb(240, 8, 8);
+     }
+ .ella
+ {
+     color: rgb(240, 8, 8);
+     margin-bottom: 15px;
+     margin-top: 30px
+ }
+ .ss
+ {
+     margin-left: 15px;
+     margin-top: 50px;
+     margin-bottom: 15px;
+     color: rgb(240, 8, 8);
+ }
+ .uma
+ {
+     margin-left: 20px;
+     color: beige;
+     
+ }
+     .ido
+     {
+         width: 0px;
+         margin-bottom: 15px;
+     }
+     .bisi
+     {
+         margin-top: 50px;
+         margin-bottom: 15px;
+         margin-left: 15px;
+         color: rgb(240, 8, 8);
+     }
+     .tony
+     {
+         margin-left: 015px;
+         margin-bottom: 5px;
+         margin-right: 15px;
+         color: rgb(206, 27, 27);
+
+
+     }
+     .nk
+     {
+         margin-left: 20px;
+         margin-top: 0px;
+         margin-bottom: 15px;
+         color: beige;
+
+     }
+     .eba
+      {
+          margin-top: 15px;
+          margin-bottom: 5px;
+          margin-left: 15px;
+          color: rgb(206, 27, 27);
+
+      }
+      .ebo
+      {
+          margin-left: 20px;
+          margin-top: 0px;
+          margin-bottom: 15px;
+          color: beige;
+      }
+      .dg
+      {
+          margin-left: 15px;
+          margin-top: 15px;
+          margin-bottom: 5px;
+          color: rgb(206, 27, 27);
+      }
+      .ifu
+      {
+          margin-left: 20px;
+          margin-bottom: 15px;
+          color: beige;
+    }
+    .ceec
+    {
+        margin-top: 15px;
+        margin-bottom: 5px;
+        margin-left: 15px;
+        color: rgb(206, 27, 27);
+    }
+    .leo
+    {
+        margin-left: 20px;
+        margin-bottom: 15px;
+        color: beige;
+    }
+    .ike
+    {
+        width: 0px;
+        margin-bottom: 15px;
+    }
+    .kaff
+    {
+        margin-left: 015px;
+        color: rgb(240, 8, 8);
+        margin-top: 40px;
+        margin-bottom: 15px;
+    }
+    .igo
+    {
+        margin-left: 20px;
+        margin-bottom: 15px;
+        color: rgb(206, 27, 27);
+    }
+    .bebe
+    {
+        margin-top: 100px;
+        color: beige;
+    }
+    @media only screen and (max-width:900px)
+    {
+        
+    }
